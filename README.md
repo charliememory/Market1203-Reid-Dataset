@@ -14,7 +14,7 @@ The image name is in the form "personId_cameraId_orientationId_Id.jpg".
 If you use this dataset please cite:
 @inproceedings{OBoA, 
   author = {Liqian Ma, Hong Liu, Liang Hu, Can Wang, Qianru Sun}, 
-  title = {Orientation driven 360 degree Body-Structure based Feature Representation for Person Re-identification}, 
+  title = {Orientation Driven Bag of Appearances for Person Re-identification}, 
   booktitle = {}, 
   volume = {}, 
   number = {}, 
